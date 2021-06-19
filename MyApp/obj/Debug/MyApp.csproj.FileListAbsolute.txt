@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\MyApp\MyApp\bin\Debug\MyApp.exe.config
+C:\Users\admin\source\repos\MyApp\MyApp\bin\Debug\MyApp.exe
+C:\Users\admin\source\repos\MyApp\MyApp\bin\Debug\MyApp.pdb
+C:\Users\admin\source\repos\MyApp\MyApp\obj\Debug\MyApp.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\MyApp\MyApp\obj\Debug\MyApp.Properties.Resources.resources
+C:\Users\admin\source\repos\MyApp\MyApp\obj\Debug\MyApp.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\MyApp\MyApp\obj\Debug\MyApp.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\MyApp\MyApp\obj\Debug\MyApp.exe
+C:\Users\admin\source\repos\MyApp\MyApp\obj\Debug\MyApp.pdb
+C:\Users\admin\source\repos\MyApp\MyApp\obj\Debug\MyApp.frmThongKe.resources
+C:\Users\admin\source\repos\MyApp\MyApp\obj\Debug\MyApp.frmTS.resources
+C:\Users\admin\source\repos\MyApp\MyApp\obj\Debug\MyApp.frmDK.resources
+C:\Users\admin\source\repos\MyApp\MyApp\obj\Debug\MyApp.frmKT.resources
+C:\Users\admin\source\repos\MyApp\MyApp\obj\Debug\MyApp.frmMain.resources
